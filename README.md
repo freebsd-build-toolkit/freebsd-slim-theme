@@ -1,0 +1,1 @@
+# freebsd-slim-theme
